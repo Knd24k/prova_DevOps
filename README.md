@@ -1,1 +1,1 @@
-# prova_DevOps
+Essa é uma aplicação simples em python que exibe a mensagem "Hello, DevOps".
